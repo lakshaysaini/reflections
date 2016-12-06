@@ -1,9 +1,4 @@
-Why do we represent it in
-the diagram the way we do?
+When would you want to use a remote repository rather than keeping all your work
+local?
 
-test 5 
-
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
-
-test 6
+Test 1
