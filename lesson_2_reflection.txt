@@ -34,3 +34,5 @@ No idea
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 i will answer later on
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
